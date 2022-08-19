@@ -1,0 +1,27 @@
+img {background-color:#4083db; 
+    display:block; 
+    margin:0px auto; 
+    width: 130px;
+    height: 145px;
+    left: 670px;
+    top: 20.91px;}
+    header{background-image: url(../Img/playa-de-isuntza-lekeitio__1280x720.jpg);
+    background-size:cover;
+    text-align: center;}
+    h1 {background-color:#C4C4C4; line-height:60px; color:#005677; font-family:'Times New Roman';font-size:35px;text-align:center;}
+    h2 {background-color:#C4C4C4; line-height: 30px; color:#005677; font-family:'Times New Roman';font-size:20px}
+    .Subtítulonc{font-weight: bold; 
+        font-style: italic;
+        line-height: 13px;}
+    .Subtítulon{font-weight: bold;}
+    .tabulación:first-letter{margin-left: 90px;}
+    p {line-height: 9px;}
+footer {background-color: #005677;
+        text-align: center; 
+        color:#FFFFFF;
+        font-family: 'Times New Roman'; 
+        font-style:normal; 
+        font-weight: 700px; 
+        font-size: 20px; 
+        line-height: 37px;}
+    
